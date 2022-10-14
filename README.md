@@ -1,0 +1,1 @@
+# maks-vektor-kapasitesi
